@@ -22,7 +22,7 @@ export default {
 
   'layouts.usermenu.dialog.title': 'Message',
   'layouts.usermenu.dialog.content': 'Are you sure you would like to logout?',
-  'layouts.userLayout.title': 'Ant Design is the most influential web design specification in Xihu district',
+  'layouts.userLayout.title': 'Friday-Admin 是一款极速开发的高性能后台管理系统',
   ...components,
   ...global,
   ...menu,
