@@ -45,8 +45,8 @@ Overview
 
 - Clone repo
 ```bash
-git clone https://github.com/vueComponent/ant-design-vue-pro.git
-cd ant-design-vue-pro
+git clone https://github.com/FridayFly/Friday-Admin-VUE.git
+cd Friday-Admin-VUE
 ```
 
 - Install dependencies
@@ -56,7 +56,7 @@ yarn install
 
 - Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn run dev
 ```
 
 - Compiles and minifies for production
