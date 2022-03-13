@@ -1,6 +1,6 @@
 English | [简体中文](./README.zh-CN.md)
 
-<h1 align="center">Ant Design Vue Pro</h1>
+<h1 align="center">FridayAdmin</h1>
 <div align="center">
 An out-of-box UI solution for enterprise applications as a Vue boilerplate. based on  <a href="https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/" target="_blank">Ant Design of Vue</a>
 </div>
@@ -45,8 +45,8 @@ Overview
 
 - Clone repo
 ```bash
-git clone https://github.com/vueComponent/ant-design-vue-pro.git
-cd ant-design-vue-pro
+git clone https://github.com/FridayFly/Friday-Admin-VUE.git
+cd Friday-Admin-VUE
 ```
 
 - Install dependencies
@@ -56,7 +56,7 @@ yarn install
 
 - Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn run dev
 ```
 
 - Compiles and minifies for production
@@ -96,8 +96,3 @@ Modern browsers and IE10.
 | --- | --- | --- | --- | --- |
 | IE10, Edge | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/vueComponent/ant-design-vue-pro/graphs/contributors"><img src="https://opencollective.com/ant-design-pro-vue/contributors.svg?width=890&button=false" /></a>

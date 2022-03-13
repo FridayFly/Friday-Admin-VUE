@@ -20,8 +20,7 @@
           我们推荐使用这种方式进行 LOGO 和 title 自定义
     -->
     <template v-slot:menuHeaderRender>
-      <div>
-        <logo-svg />
+      <div class="cl-center">
         <h1>{{ title }}</h1>
       </div>
     </template>
@@ -183,4 +182,5 @@ export default {
 
 <style lang="less">
 @import "./BasicLayout.less";
+
 </style>
